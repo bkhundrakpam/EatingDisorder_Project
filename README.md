@@ -1,2 +1,10 @@
 # EatingDisorder_Project
 Code accompanying paper by Breton et al. - "A longitudinal study on cortical thickness and childhood eating behaviors: differences according to sex and age"
+
+Objective: This study investigated the association between childhood eating behaviors and cortical morphology, in relation to sex and age, in a community sample. 
+
+Method: Longitudinal data of 71 children (mean age=9.9 years; N=125 scans) were obtained from the Nathan Kline Institute-Rockland Sample. Eating behaviors were assessed using the parent-report Childhood Eating Behavior Questionnaire (CEBQ), consisting of four food-approach subscales (food responsiveness, emotional overeating, desire to drink, enjoyment of food), and four food-avoidance subscales (satiety responsiveness, slowness in eating, food fussiness, emotional undereating). Cortical thickness data were processed with the CIVET pipeline and obtained at 81,924 vertices covering the entire cortex. Generalized Linear Mixed Models were used, with cortical thickness as outcome and the CEBQ subscales, age, sex, and an age*sex interaction as predictors. 
+
+Results: We found a significant effect of sex in the associations between cortical thickness and food responsiveness (localized at the right postcentral and superior parietal gyri), and emotional overeating (localized at the right postcentral and bilateral superior parietal gyri). In girls, cortical thickness was negatively associated with food responsiveness and emotional overeating, and positively associated with slowness in eating. These associations were in the opposite direction for boys (p<0.05). Further, we found different patterns of association between food fussiness and cortical thickness across development (p<0.05). The left rostral middle frontal gyrus displayed a positive correlation with food fussiness from 6 to 8 years, and a negative correlation from 12 to 14 years. 
+
+Discussion: Leveraging on a community sample of longitudinal MRI and behavioural data, Oour findings support distinct patterns of association between childhood eating behaviors and cortical thickness, depending on sex and age. 
