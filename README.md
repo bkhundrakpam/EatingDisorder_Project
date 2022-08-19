@@ -1,5 +1,4 @@
-# EatingDisorder_Project
-Code accompanying paper by Breton et al. - "A longitudinal study on cortical thickness and childhood eating behaviors: differences according to sex and age"
+# Code accompanying paper by Breton et al. - "A longitudinal study on cortical thickness and childhood eating behaviors: differences according to sex and age"
 
 Objective: This study investigated the association between childhood eating behaviors and cortical morphology, in relation to sex and age, in a community sample. 
 
